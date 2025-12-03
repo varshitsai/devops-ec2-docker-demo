@@ -23,4 +23,4 @@ sudo apt install docker.io -y
 sudo systemctl start docker
 sudo systemctl enable docker
 
-![Website Output](./output.jpg.png)
+![Website Output](./Output.jpg.png)

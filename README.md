@@ -10,8 +10,10 @@ This project demonstrates a simple DevOps workflow:
 ✔ Build a Docker image  
 ✔ Run the Docker container  
 ✔ Serve the website on port 80  
-✔ Access it using the EC2 Public IP  
+✔ Access it using the EC2 Public IP 
 
+## 🖼 Output Screenshot
+![Website Output](./Output.jpg.png)
 ---
 
 ## 🛠 Commands Used
@@ -23,4 +25,5 @@ sudo apt install docker.io -y
 sudo systemctl start docker
 sudo systemctl enable docker
 
-![Website Output](./Output.jpg.png)
+
+

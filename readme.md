@@ -1,3 +1,5 @@
+![Status](https://img.shields.io/badge/Deployment-AWS%20EC2-blue)
+![Docker](https://img.shields.io/badge/Container-Docker-brightgreen)
 # DevOps Demo: Deploying a Website on AWS EC2 using Docker
 
 This project demonstrates a simple DevOps workflow:
